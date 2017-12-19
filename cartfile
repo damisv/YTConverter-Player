@@ -1,0 +1,10 @@
+# PopUp Tab Controller APPLE Music Like
+github "LeoNatan/LNPopupController"
+# Animated Tab Bar Items
+github "Ramotion/animated-tab-bar"
+# Swift Overlays
+github "peterprokop/SwiftOverlays" ~> 4.0.0
+# RXSwift
+github "ReactiveX/RxSwift" ~> 4.0
+# Toast Message Notification
+github "scalessec/Toast-Swift" ~> 3.0.1

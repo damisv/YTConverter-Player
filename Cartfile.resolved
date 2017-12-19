@@ -1,0 +1,5 @@
+github "LeoNatan/LNPopupController" "v2.5.2"
+github "ReactiveX/RxSwift" "4.0.0"
+github "peterprokop/SwiftOverlays" "4.0.1"
+github "scalessec/Toast-Swift" "3.0.1"
+github "Ramotion/animated-tab-bar" "3.0.1"
